@@ -3,6 +3,7 @@
   vertical-align: middle;
   width: 20px;
   height: 20px;
+  color: white !important;
 }
 
 .sharediv {
@@ -34,7 +35,7 @@
    
 sharebutton:hover,
 .sharebutton:hover {
-  color: #000000;
+  color: #000000 !important;
   background-color: #FFF; 
 }
 .sharebutton:hover .share-icon {

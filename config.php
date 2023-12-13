@@ -20,7 +20,7 @@ return [
 
     'open_links_in_same_tab' => 'false',
     'enable_dynamic_contrast' => 'true',
-
+    'disable_admin_bar' => 'true',    
     /*
     |--------------------------------------------------------------------------
     | Custom Code
